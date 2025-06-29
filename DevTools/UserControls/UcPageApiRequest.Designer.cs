@@ -99,6 +99,7 @@
             buttonSend.TabIndex = 6;
             buttonSend.Text = "送信";
             buttonSend.UseVisualStyleBackColor = true;
+            buttonSend.Click += buttonSend_Click;
             // 
             // labelResponse
             // 
